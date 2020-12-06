@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ContainerMain {
+  width: 1366px;
+  margin: 0 auto;
+  background-color: #ccc
+}
